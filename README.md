@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Blockchain+Enthusiast;%E2%9C%93+Python+Developer;%E2%9C%93+Blogger;%E2%9C%93+Cryptocurrency+Maximalist;%E2%9C%93+Photo+Editing+and+Graphics+Designer)](https://git.io/typing-svg)
 
 <p>
-<a href="https://srivathsan.hashnode.dev/">
+<a href="https://github.com/Shanerex/">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DShanerex&longCache=true">
 </a>
 <p>
