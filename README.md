@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 - 🌱 Learning to develop robust Android Applications
 - 👯 Looking to collaborate on building useful Android Apps
-- 📫 How to reach me: My socials mentioned below 👇
 
 ### 📈 Github Stats
 <!-- status codes -->
